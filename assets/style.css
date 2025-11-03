@@ -72,6 +72,9 @@ h3 {
 
 .mainSlider {
   padding-top: 250px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .slider a{
     color: white;
